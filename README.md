@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my github profile, I'm Jean Silva, Full Stack Software Developer 👋
+
+I'm a not(genius), who works hard to become a reference in the Software Engineering field one day, improving myself one day at a time, with no rush, but with a lot of determination and persistence instead. Passionate for all about technology, and conscious that, in a not so far feature, we will use software for literally EVERYTHING. And when that day come up, I want to be prepared to make the world keep going further.
+
+On my repositories list, you will find some projects I worked on during my freelancer period, as well as some of my college assignment for my Web and Design Development Post Secondary Program, and also the bootcamps I've done with Rocketseat. There are, mainly, Frontend web projects using React.js and Next.js, as well as mobile projects with React Native and backend REST API's using Node.js. Take a look and have fun!
 
 <!--
 **jeanlsilva/jeanlsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
